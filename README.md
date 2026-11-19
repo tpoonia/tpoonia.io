@@ -110,15 +110,4 @@ Java microservices for an ML data platform, Kafka pipelines streaming transactio
 
 <br/>
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tpoonia&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=FF6A2B&icon_color=F4C350&text_color=EDEAE3&ring_color=FF6A2B" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoonia&layout=compact&hide_border=true&bg_color=0B0D12&title_color=FF6A2B&text_color=EDEAE3" />
-
-<br/><br/>
-
-**Hiring for AI Engineer roles? [Let's talk](mailto:tpoonia@mail.yu.edu) · [See my portfolio](https://tpoonia.github.io/tpoonia/)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C350,100:FF6A2B&height=90&section=footer" width="100%"/>
-
-</div>
