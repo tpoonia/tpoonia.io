@@ -1,210 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B5CFF&height=120&section=header&text=Tushar%20Poonia&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20MS%20Artificial%20Intelligence&descAlignY=78&descSize=14&descColor=ccbbff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A2B,100:F4C350&height=130&section=header&text=Tushar%20Poonia&fontSize=44&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Machine%20Learning&descAlignY=78&descSize=15&descColor=fff7ec" width="100%"/>
 
-<a href="https://www.linkedin.com/in/tushar-poonia-4623a829a"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Poonia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tpoonia.github.io/Tushar-Poonia/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://tpoonia.github.io/tpoonia/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-FF6A2B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tpoonia/"><img src="https://img.shields.io/badge/LinkedIn-tpoonia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:tpoonia@mail.yu.edu"><img src="https://img.shields.io/badge/Email-tpoonia%40mail.yu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/New%20York%2C%20NY-📍-00D4AA?style=for-the-badge" />
+<a href="https://tpoonia.github.io/tpoonia/Tushar_Poonia_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-34C6A0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/New%20York%2C%20NY-Open%20to%20work-15181F?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👋 About me
 
-I'm a **Software Developer & AI Engineer** with **3+ years at Tata Consultancy Services**, building enterprise-grade APIs and data pipelines for global banking clients. I'm now pursuing an **M.S. in Artificial Intelligence** at Yeshiva University (GPA 3.8), bridging production backend engineering with applied machine learning.
+I build AI that works in real products, not just in demos.
 
-- 🏦 Built systems processing **100M+ rows/day** for CTBC Bank (Taiwan) & ING Bank (Netherlands)
-- 🔌 Designed **60+ REST APIs** across 8+ distributed banking platforms
-- 📈 Increased real-time analytics throughput by **40%** via optimized ML data pipelines
-- 🏆 **Employee of the Month — 3×** · **Client Appreciation Award**
-- 🎓 **M.S. AI** @ Yeshiva University · **M.Sc. CS (AI & ML Honors)** @ Pune University
+- 🏦 **3+ years at Tata Consultancy Services** building ML pipelines and backend systems for **CTBC Bank** (Taiwan) and **ING Bank** (Netherlands)
+- 🎓 **M.S. in Artificial Intelligence** at Yeshiva University, New York (GPA 3.8, graduating May 2027)
+- 🤖 Right now: **multi-agent LLM systems** for anti-money laundering, and **cost-aware quantum machine learning**
+- 🌐 See everything on my portfolio: **[tpoonia.github.io/tpoonia](https://tpoonia.github.io/tpoonia/)**
 
 <br/>
 
-## 🛠 Tech Stack
+## 🚀 Featured projects
 
-**Languages**
+### 🕵️ AI Agents for Anti-Money Laundering (AML) Alert Review
+Banks get flooded with money laundering alerts. Most tools only give an alert a score; this system actually investigates it.
+- Five AI agents in **LangGraph** split the work: spot risk signs, find customer (KYC) and policy records with **RAG**, check transactions, combine the evidence and explain it
+- Every alert gets a short risk report and a suggested action (close, review or escalate), and a **human analyst makes the final call**
+- Served through a **FastAPI** backend · earlier ML version: [fintech-aml-triage](https://github.com/tpoonia/fintech-aml-triage)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**ML & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Backend & Data**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🔍 Explainable Credit Risk Model
-
-Predicting loan default risk with full regulatory-grade explainability using ensemble methods and SHAP/LIME.
-
-| Metric | Value |
-|--------|-------|
-| 📊 Dataset | 50,000+ loan records |
-| 🎯 Accuracy | 92% |
-| 📈 AUC-ROC | 0.96 |
-| ⏱️ Auditor review time | ↓ 40% |
-
-**Models:** XGBoost · Random Forest · Logistic Regression
-**Explainability:** SHAP (global + local feature importance) · LIME (instance-level explanations)
-
-**Highlights:**
-- Trained and compared three models; XGBoost achieved best AUC-ROC at 0.96
-- Integrated SHAP summary plots and waterfall charts for model transparency
-- LIME explanations surfaced per-prediction reasoning for compliance audits
-- Reduced manual auditor review time by 40% through automated explanation reports
-
+![RAG](https://img.shields.io/badge/RAG-FF6A2B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-7B5CFF?style=flat-square&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-00D4AA?style=flat-square&logoColor=white)
 
----
+### ⚛️ [Q-TRACE](https://github.com/tpoonia/q-trace): Lower-Cost Quantum Error Mitigation for Fraud Detection
+Fixing noise on a quantum computer costs extra runs. Q-TRACE decides, batch by batch, when the fix is worth paying for.
+- Sits on a frozen **4-qubit quantum classifier** for credit-card fraud (ULB dataset); quick label-free probes measure the noise, then it picks no fix, readout correction, **ZNE**, both, or more shots
+- In a **pre-registered study** with a sealed test, a simple two-threshold rule came within **0.03%** of the best possible Brier score using only **0.6%** more shots
+- Team project with Mayank Pokhriyal, with a paper and a live demo
 
-### 🏥 Medical Disease Prediction System
-
-Multi-disease classifier for early clinical diagnosis across several conditions using engineered clinical features.
-
-| Metric | Value |
-|--------|-------|
-| 📊 Dataset | 20,000+ patient records |
-| 🎯 Accuracy | 95% |
-| 🔴 Recall | 98% |
-| 🔬 Features engineered | 30+ clinical features |
-| ✅ False negative reduction | 18% |
-
-**Models:** Support Vector Machine (SVM) · Random Forest · Neural Networks
-
-**Highlights:**
-- Engineered 30+ domain-informed clinical features (vitals, lab ratios, symptom composites)
-- Achieved 98% recall — minimizing missed diagnoses in high-stakes clinical scenarios
-- Reduced false negatives by 18% vs baseline through threshold tuning and ensemble voting
-- Benchmarked SVM, RF, and NN across multiple disease targets; best model selected per condition
-
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum%20ML-5B78FF?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
----
+### 🔎 [LangGraph Research Agent](https://github.com/tpoonia/Langgraph-Ai-Agent-Assignment-Solution)
+Searches, summarizes, checks its own summary and searches again if it's weak, then saves a report. Keeps memory and recovers from tool errors. Cut manual work on 8-step research tasks by **70%**.
 
-### 🧬 Genetic Algorithm Optimizer (Knapsack)
+### 📊 Explainable Credit Risk Model
+XGBoost, random forest and logistic regression on 50K+ loan records (**92% accuracy, 0.96 AUC-ROC**). SHAP and LIME show auditors what drove each decision, cutting their review time by **40%**.
 
-Evolutionary optimizer solving the 0/1 Knapsack problem — 60× faster than brute-force with near-optimal results.
-
-| Metric | Value |
-|--------|-------|
-| 🔢 Search space | 1,000+ item combinations |
-| 🏆 Optimal solution rate | 97% |
-| ⚡ Speed vs brute-force | 60× faster |
-| 📉 Convergence improvement | 45% faster |
-| 🔄 Generations to converge | 50 |
-
-**Algorithm:** DEAP Genetic Algorithm (selection · crossover · mutation)
-
-**Highlights:**
-- Implemented full GA pipeline: population init, fitness evaluation, tournament selection, uniform crossover, and bit-flip mutation
-- Tuned population size, crossover rate, and mutation probability to maximize convergence speed
-- 97% optimal solution rate across 1,000+ test combinations within 50 generations
-- 45% faster convergence vs standard GA baseline through adaptive parameter tuning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![DEAP](https://img.shields.io/badge/DEAP-7B5CFF?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-
----
-
-### 🤖 LangGraph AI Agent
-
-Autonomous multi-step AI agent built with LangGraph for dynamic task planning, tool use, and execution.
-
-| Feature | Detail |
-|---------|--------|
-| 🧠 Framework | LangGraph (stateful agent graphs) |
-| 🔄 Architecture | Multi-node DAG with conditional routing |
-| 🛠️ Capability | Autonomous task planning & execution |
-| 🔗 Tools | Integrated external tools & APIs |
-
-**Highlights:**
-- Designed a stateful LangGraph pipeline with planning, tool-calling, and reflection nodes
-- Implemented conditional edge routing to dynamically re-plan based on intermediate results
-- Agent autonomously decomposes high-level goals into sub-tasks and executes them sequentially
-- Supports human-in-the-loop checkpoints for approval on critical steps
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tpoonia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7B5CFF&icon_color=00D4AA&text_color=f0eefc&ring_color=7B5CFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoonia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7B5CFF&text_color=f0eefc" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tpoonia&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7B5CFF&fire=00D4AA&currStreakLabel=7B5CFF)](https://github.com/tpoonia)
-
-</div>
+### 💬 [Sentiment Analysis API](https://github.com/tpoonia/sentiment-analysis-api)
+A FastAPI service that labels text as positive, negative or neutral and explains why, using a LangChain chain on an LLM. Packaged with Docker.
 
 <br/>
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|---|---|---|
-| Jun 2022 – Aug 2025 | Software Product Developer | Tata Consultancy Services · CTBC Bank |
-| Dec 2021 – May 2022 | Assistant Software Engineer | Tata Consultancy Services · ING Bank |
+**Software Product Developer** · Tata Consultancy Services · client: CTBC Bank (Taiwan) · *Jun 2022 – Aug 2025*
+REST APIs in Java and Spring Boot serving ML models in real time, ML pipelines with CI/CD and model checks, faster data and feature pipelines on very large tables, and a shared feature store. ⭐ Employee of the Month (3×)
+
+**Assistant Software Engineer** · Tata Consultancy Services · client: ING Bank (Netherlands) · *Dec 2021 – May 2022*
+Java microservices for an ML data platform, Kafka pipelines streaming transaction data in near real time, Oracle and PostgreSQL integration. ⭐ Client Appreciation Award
+
+<br/>
+
+## 🛠️ Tech stack
+
+**LLMs and AI Agents**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6A2B?style=flat-square)
+
+**Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+
+**Backend and Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Cloud and MLOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 <br/>
 
 ## 🎓 Education
 
-| Degree | Institution | GPA |
-|---|---|---|
-| M.S. Artificial Intelligence *(2025–2027)* | Yeshiva University, NY | 3.8 |
-| M.Sc. Computer Science — AI & ML Honors | Savitribai Phule Pune University | 3.63 |
-| B.Sc. Computer Science — Honors | Savitribai Phule Pune University | 3.4 |
+- **M.S. Artificial Intelligence**, Yeshiva University, Katz School of Science and Health, New York · GPA 3.8 · *Aug 2025 – May 2027 (expected)*
+- **M.Sc. Computer Science, Honors in AI and ML**, Savitribai Phule Pune University · GPA 3.63 · *2022*
+- **B.Sc. Computer Science, Honors Computer Applications**, Savitribai Phule Pune University · GPA 3.4 · *2020*
 
 <br/>
 
 <div align="center">
 
-*Open to roles in Backend Engineering · ML Engineering · Applied AI*
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tpoonia&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=FF6A2B&icon_color=F4C350&text_color=EDEAE3&ring_color=FF6A2B" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoonia&layout=compact&hide_border=true&bg_color=0B0D12&title_color=FF6A2B&text_color=EDEAE3" />
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://tpoonia.github.io/Tushar-Poonia/)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B5CFF&height=80&section=footer" width="100%"/>
+**Hiring for AI Engineer roles? [Let's talk](mailto:tpoonia@mail.yu.edu) · [See my portfolio](https://tpoonia.github.io/tpoonia/)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C350,100:FF6A2B&height=90&section=footer" width="100%"/>
 
 </div>
