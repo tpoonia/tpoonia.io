@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B5CFF&height=120&section=header&text=Tushar%20Poonia&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20MS%20Artificial%20Intelligence&descAlignY=78&descSize=14&descColor=ccbbff" width="100%"/>
 
 <a href="https://www.linkedin.com/in/tushar-poonia-4623a829a"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Poonia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tpoonia.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://tpoonia.github.io/Tushar-Poonia/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:tpoonia@mail.yu.edu"><img src="https://img.shields.io/badge/Email-tpoonia%40mail.yu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/New%20York%2C%20NY-📍-00D4AA?style=for-the-badge" />
 
@@ -203,7 +203,7 @@ Autonomous multi-step AI agent built with LangGraph for dynamic task planning, t
 
 *Open to roles in Backend Engineering · ML Engineering · Applied AI*
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://tpoonia.github.io/Portfolio/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://tpoonia.github.io/Tushar-Poonia/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B5CFF&height=80&section=footer" width="100%"/>
 
